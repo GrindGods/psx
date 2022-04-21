@@ -1,5 +1,4 @@
 |Console|DL Link|Title|Date|Publisher|
-|-----------------|------------------------|----------------------------------------------|------------|-----------------------------------|
 |(PSX)|https://archive.org/details/psx_007twine|007 - The World Is Not Enough(USA)|28-Mar-18|Electronic Arts|
 |(PSX)|https://archive.org/details/psx_007tnd|007 - Tomorrow Never Dies(USA)|29-Mar-18|Electronic Arts|
 |(PSX)|https://archive.org/details/psx_007rcng|007 Racing(USA)|28-Mar-18|Electronic Arts|
